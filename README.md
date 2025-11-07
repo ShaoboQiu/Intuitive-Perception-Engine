@@ -8,11 +8,10 @@
 
 ## 🌐 项目简介 | Project Overview
 
-本项目旨在建立一种具备 **多层抽象能力** 与 **直觉识别能力** 的自动驾驶感知-推理系统，  
+本项目旨在建立一种具备 **直觉识别能力** 的自动驾驶感知-认知系统，  
 它作为 “安全右脑（Safety Right-Brain）” 的组成模块之一，用于实现对复杂交通场景的直觉化风险感知与预判。
 
-系统的核心理念是将 **人类认知中的多层抽象思维（Multi-Level Abstraction）** 与  
-**基于事故经验的风险推理（Experience-Driven Hazard Reasoning）** 相结合，  
+**基于事故经验的风险推理（Experience-Driven Hazard Reasoning）** 系统的核心理念是参照 **人类认知多层抽象思维（Multi-Level Abstraction）** 的能力，  
 构建一个能够理解“场景关系”而非仅仅识别“物理对象”的智能引擎。
 
 ---
